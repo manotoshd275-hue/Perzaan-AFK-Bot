@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "debmonz.aternos.me:37643",
+    "ip": "debmonz.aternos.me",
     "port": 37643,
     "version": "1.21.1"
   },
